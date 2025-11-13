@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aguaFragment"
+        android:icon="@drawable/agua"
+        android:title="@string/agua" />
+
+    <item
+        android:id="@+id/fuegoFragment"
+        android:icon="@drawable/fuego"
+        android:title="@string/fuego" />
+
+    <item
+        android:id="@+id/tierraFragment"
+        android:icon="@drawable/tierra"
+        android:title="@string/tierra" />
+
+    <item
+        android:id="@+id/electricoFragment"
+        android:icon="@drawable/electrico"
+        android:title="@string/electrico" />
+</menu>

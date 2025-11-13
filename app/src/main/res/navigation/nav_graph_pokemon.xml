@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_pokemon.xml"
+    app:startDestination="@id/aguaFragment">
+
+    <fragment
+        android:id="@+id/aguaFragment"
+        android:name="es.iesagora.menus_5.AguaFragment"
+        android:label="@string/agua"
+        tools:layout="@layout/fragment_agua" />
+    <fragment
+        android:id="@+id/fuegoFragment"
+        android:name="es.iesagora.menus_5.FuegoFragment"
+        android:label="@string/fuego"
+        tools:layout="@layout/fragment_fuego" />
+    <fragment
+        android:id="@+id/tierraFragment"
+        android:name="es.iesagora.menus_5.TierraFragment"
+        android:label="@string/tierra"
+        tools:layout="@layout/fragment_tierra" />
+    <fragment
+        android:id="@+id/electricoFragment"
+        android:name="es.iesagora.menus_5.ElectricoFragment"
+        android:label="@string/electrico"
+        tools:layout="@layout/fragment_electrico" />
+</navigation>

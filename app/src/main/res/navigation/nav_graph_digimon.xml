@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_digimon.xml"
+    app:startDestination="@id/rookieFragment">
+    <fragment
+        android:id="@+id/rookieFragment"
+        android:name="es.iesagora.menus_5.RookieFragment"
+        android:label="@string/rookie"
+        tools:layout="@layout/fragment_rookie" />
+    <fragment
+        android:id="@+id/championFragment"
+        android:name="es.iesagora.menus_5.ChampionFragment"
+        android:label="@string/champion"
+        tools:layout="@layout/fragment_champion" />
+    <fragment
+        android:id="@+id/megaFragment"
+        android:name="es.iesagora.menus_5.MegaFragment"
+        android:label="@string/mega"
+        tools:layout="@layout/fragment_mega" />
+</navigation>

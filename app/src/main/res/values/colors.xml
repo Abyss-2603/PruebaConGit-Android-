@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_menu1">#FAF5FF</color>
+    <color name="fondo_rookie">#fff096</color>
+    <color name="fondo_agua">#3dbbd2</color>
+    <color name="fondo_fuego">#f07f20</color>
+    <color name="fondo_tierra">#a5987c</color>
+    <color name="fondo_electrico">#ffff81</color>
+</resources>

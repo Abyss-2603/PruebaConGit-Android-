@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="coleccion">Colección</string>
+    <string name="Pokemon">Pokémon</string>
+    <string name="Digimon">Digimon</string>
+    <string name="saludo">Hola Entrenador</string>
+    <string name="agua">Agua</string>
+    <string name="pokemon_agua">Vaporeon</string>
+    <string name="fuego">Fuego</string>
+    <string name="pokemon_fuego">Charmander</string>
+    <string name="tierra">Tierra</string>
+    <string name="pokemon_tierra">Diglett</string>
+    <string name="electrico">Eléctrico</string>
+    <string name="pokemon_electrico">Zapdos</string>
+    <string name="rookie">Rookie</string>
+    <string name="agumon">Agumon</string>
+    <string name="champion">Champion</string>
+    <string name="greymon">Greymon</string>
+    <string name="mega">Mega</string>
+    <string name="wargreymon">WarGreymon</string>
+</resources>

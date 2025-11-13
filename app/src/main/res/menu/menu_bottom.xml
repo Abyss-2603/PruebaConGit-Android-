@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rookieFragment"
+        android:icon="@drawable/pensamiento"
+        android:title="@string/rookie" />
+
+    <item
+        android:id="@+id/championFragment"
+        android:icon="@drawable/medalla"
+        android:title="@string/champion" />
+
+    <item
+        android:id="@+id/megaFragment"
+        android:icon="@drawable/avance"
+        android:title="@string/mega" />
+</menu>
